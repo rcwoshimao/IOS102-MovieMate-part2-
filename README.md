@@ -1,38 +1,40 @@
-# Project 2 - *MovieMate*
+# Project 3 - *MovieMate with API*
 
 Submitted by: **Jiaying Chen**
 
-**MovieMate** is a movie browsing app that allows you to see details of different the movies of your choice!  
+**MovieMate** is an app that introduces networking to my previous app, MovieMate! 
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] Users are able to see a customized app icon and launch screen
-- [x] Your app should work for any screen size and orientation using AutoLayout constraints
-- [x] Displays at least 5 different movies in a table view
-- [x] Can tap into detail view of movie with a full description, backdrop image, and title
+- [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [x] App has a collection view with the same list of movies
+- [x] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
-- [x] Unique UI changes, such as background, font/color changes, etc.
-- [ ] User implements a collection view
-- [ ] User implemenets tab bar controller with at least two screens
+- [ ] Make an additional network call to another end-point.	
+- [x] Allow users to scroll when context items are off-screen (table view implemention)
+
+The following **additional** features are implemented:
+
+- [x] Customized the app to make the app look better!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE1YjIzYTg2OWU1NGQyNmY0NGE3M2Y4NjhjMDE2Y2IzZDZmMjk1MSZjdD1n/JGcD7sgZKvlrHZS2lW/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk5OWM3Y2JlN2VlOTk1YjM2ODI1ZTU1ODdkYzU5YTBiZDZiZjA4OSZjdD1n/FPuANdySEVOXF3hNh0/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ...  
+GIF created with giphy  
+
 
 ## Notes
 
-The biggest challenge I face when making my app continues to be setting constraints and making sure my app works for all screen sizes and all scren orientations. 
-
+This lab was so much easier comepared to the last lab, where I had to work with constraints. 
 
 ## License
 
